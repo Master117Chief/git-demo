@@ -9,7 +9,7 @@ hallo! hallo git!
 hallo! hallo git!
 hallo! hallo git!
 hallo! hallo git!
-hallo! hallo git!
 hallo! hallo git!	master test
+hallo! hallo git!	hot-fixfix
 hallo! hallo git!	2222
 hallo! hallo git!	1111
